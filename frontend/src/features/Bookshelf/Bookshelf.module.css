@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+
+.wall {
+  width: 20px;
+  height: 630px;
+  background-color: #4d310e;
+  border: 3px solid #2e1c05;
+}

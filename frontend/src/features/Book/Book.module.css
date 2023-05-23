@@ -1,0 +1,8 @@
+.book {
+  border: 1px solid #2a1303;
+  font-size: calc(10px + 2vmin);
+  writing-mode: vertical-lr;
+  transform: scale(-1);
+  padding: 5px 3px;
+  color: white;
+}

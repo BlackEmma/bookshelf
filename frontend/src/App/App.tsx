@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Bookshelf from '../features/Bookshelf/Bookshelf';
 
 function App() {
   return (
     <div className="App">
-      bookshelf
+      <Bookshelf />
     </div>
   );
 }
